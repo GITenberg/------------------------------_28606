@@ -1,0 +1,47 @@
+_repo: '------------------------------_28606'
+_version: 0.1.0
+alternative_title: Lucian - The Complete Works, Volume 6
+contributor:
+  translator:
+    agent_name: Kondylakes, Ioannes
+    aliases:
+    - Kondylakis, Ioannis
+    - Κονδυλάκης, Ιωάννης
+    - Kondilakis, Ioannis
+    birthdate: 1861
+    deathdate: 1920
+    gutenberg_agent_id: '33027'
+    url: http://www.gutenberg.org/2009/agents/33027
+    wikipedia: http://el.wikipedia.org/wiki/Ιωάννης_Κονδυλάκης
+covers:
+- cover_type: archival
+  image_path: 28606-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Lucian, of Samosata
+    aliases:
+    - Λουκιανος, ο Σαμοσατευς
+    - Samosata, Lucian of
+    - Λουκιανός, ὁ Σαμοσατεύς
+    - Λουκιανός, ο Σαμοσατεύς
+    birthdate: 120
+    deathdate: 180
+    gutenberg_agent_id: '1997'
+    url: http://www.gutenberg.org/2009/agents/1997
+    wikipedia:
+    - http://el.wikipedia.org/wiki/%CE%9B%CE%BF%CF%85%CE%BA%CE%B9%CE%B1%CE%BD%CF%8C%CF%82
+    - http://en.wikipedia.org/wiki/Lucian
+description: ''
+gutenberg_issued: '2009-04-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28606'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lucian, of Samosata -- Translations into Modern Greek'
+- !lcc 'PA'
+title: Λουκιανός - Άπαντα, Τόμος Έκτος
+url: http://www.gutenberg.org/ebooks/28606
